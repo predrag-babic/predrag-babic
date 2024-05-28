@@ -19,6 +19,7 @@
 ![CSS3](https://camo.githubusercontent.com/937e12c14443310e22e75f4aadbe335eb7e4b1caf7e3acec75cd53ed2ea0c278/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333)
 ![JS](https://camo.githubusercontent.com/299adaf04154e6da97ce9936e428e4c5107c93ae25d8485ca9f80091881290b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3535353535353f7374796c653d666c6174266c6f676f3d6a617661736372697074)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Visitor Count](https://profile-counter.glitch.me/{predrag-babic}/count.svg)
 
