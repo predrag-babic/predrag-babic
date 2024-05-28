@@ -9,9 +9,8 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on interresting projects.
 - 📫 How to reach me: **Linkedin** - [Predrag Babic](https://www.linkedin.com/in/predrag-babic-4bb382244/)
-  ![Predrag Babic](./MicrosoftTeams-Tactix.png)
 
-  <img src="./MicrosoftTeams-Tactix.png" width="200" />
+ <img src="./MicrosoftTeams-Tactix.png" width="200" />
 
 
 <!---
