@@ -4,7 +4,7 @@
 - ⚽ My hobbies are:
     Football
    -Reading
-   -High Climbing
+   -High climbing
 - 😃 Pronauns: **He/His**
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on interresting projects.
