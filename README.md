@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @predrag-babic and i live and work in Austria. I am 38y old, father of two boys.
 - I live and work in Austria. I am 38y old, father of two boys.
 - 👀 I’m interested in sport.
-- My hobbies are..
-   -Football
+- My hobbies are:
+    Football
    -Reading
    -High Climbing
 - 🌱 I’m currently learning web development.
