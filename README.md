@@ -11,6 +11,8 @@
 - 📫 How to reach me: **Linkedin** - [Predrag Babic](https://www.linkedin.com/in/predrag-babic-4bb382244/)
   ![Predrag Babic](./MicrosoftTeams-Tactix.png)
 
+  <img src="./MicrosoftTeams-Tactix.png" width="200" />
+
 
 <!---
 predrag-babic/predrag-babic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
