@@ -22,7 +22,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Visitor Count](https://profile-counter.glitch.me/{predrag-babic}/count.svg)
-Tuesday, July 21st 2020, 8:52:54 am UTC
+
 
 <!---
 predrag-babic/predrag-babic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
